@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<h1>Welcome to my website.</h1>
+
+I am a graduate student in [linguistics at McGill](https://www.mcgill.ca/linguistics/). On this website, I've included my publications and my CV.
